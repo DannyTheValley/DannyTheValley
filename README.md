@@ -8,5 +8,5 @@ Hourly EUR/USD and EUR/NOK rates, Europe/Oslo.
 | EUR/USD | 1.1209 | 0.00% | 1.1209 | 1.1209 |
 | EUR/NOK | 10.7578 | 0.00% | 10.7578 | 10.7578 |
 
-Updated 6 October 2026, 22:08 Europe/Oslo.
+Updated 7 October 2026, 01:52 Europe/Oslo.
 <!-- FX-PULSE:END -->
